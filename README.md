@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe with AI
 Desktop Tic Tac Toe game
 
 build the project:
